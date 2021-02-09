@@ -1,5 +1,5 @@
 # test
-hi\n
-this is a test\n
-test1\n
+## hi
+this is a test\
+test1\
 test2
